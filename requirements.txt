@@ -8,6 +8,8 @@ async-timeout==4.0.3
 attrs==24.2.0
 certifi==2024.8.30
 charset-normalizer==3.4.0
+click==8.1.7
+cloudpickle==3.1.0
 comm==0.2.2
 contourpy==1.3.0
 cycler==0.12.1
@@ -21,7 +23,9 @@ filelock==3.16.1
 fonttools==4.54.1
 frozenlist==1.4.1
 fsspec==2024.6.1
+future==1.0.0
 huggingface-hub==0.25.2
+hyperopt==0.2.7
 idna==3.10
 importlib_metadata==8.5.0
 importlib_resources==6.4.5
@@ -33,6 +37,7 @@ joblib==1.4.2
 jupyter_client==8.6.3
 jupyter_core==5.7.2
 kiwisolver==1.4.7
+lightgbm==4.5.0
 MarkupSafe==3.0.1
 matplotlib==3.9.2
 matplotlib-inline==0.1.7
@@ -41,6 +46,7 @@ multidict==6.1.0
 multiprocess==0.70.16
 nest-asyncio==1.6.0
 networkx==3.2.1
+nltk==3.9.1
 numpy==2.0.2
 packaging==24.1
 pandas==2.2.3
@@ -54,6 +60,7 @@ propcache==0.2.0
 psutil==6.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
+py4j==0.10.9.7
 pyarrow==17.0.0
 Pygments==2.18.0
 pyparsing==3.1.4
@@ -67,6 +74,7 @@ safetensors==0.4.5
 scikit-learn==1.5.2
 scipy==1.13.1
 scorecardpy==0.1.9.7
+seaborn==0.13.2
 six==1.16.0
 stack-data==0.6.3
 statsmodels==0.14.4
@@ -82,6 +90,7 @@ typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
 wcwidth==0.2.13
+xgboost==2.1.2
 xxhash==3.5.0
 yarl==1.14.0
 zipp==3.20.2
