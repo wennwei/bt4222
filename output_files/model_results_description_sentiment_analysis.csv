@@ -1,0 +1,2 @@
+model,test_metrics
+Sentiment Analysis on Description,"{'accuracy': 0.728, 'recall': np.float64(0.5306122448979592), 'precision': np.float64(0.593607305936073), 'f1_score': np.float64(0.5603448275862069)}"
