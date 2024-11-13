@@ -1,2 +1,0 @@
-model,test_metrics
-Sentiment Analysis on Webscraped Data,"{'accuracy': 0.7801739130434783, 'recall': np.float64(0.39855072463768115), 'precision': np.float64(0.5589430894308943), 'f1_score': np.float64(0.4653130287648054)}"
