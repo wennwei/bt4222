@@ -26,6 +26,7 @@ flatbuffers==24.3.25
 fonttools==4.54.1
 frozenlist==1.4.1
 fsspec==2024.6.1
+ftfy==6.3.1
 future==1.0.0
 gast==0.6.0
 geographiclib==2.0
@@ -46,8 +47,10 @@ jupyter_client==8.6.3
 jupyter_core==5.7.2
 keras==3.6.0
 kiwisolver==1.4.7
+langdetect==1.0.9
 libclang==18.1.1
 lightgbm==4.5.0
+llvmlite==0.43.0
 Markdown==3.7
 markdown-it-py==3.0.0
 MarkupSafe==3.0.1
@@ -62,6 +65,7 @@ namex==0.0.8
 nest-asyncio==1.6.0
 networkx==3.2.1
 nltk==3.9.1
+numba==0.60.0
 numpy==2.0.2
 opt_einsum==3.4.0
 optree==0.13.0
@@ -94,7 +98,10 @@ scikit-learn==1.5.2
 scipy==1.13.1
 scorecardpy==0.1.9.7
 seaborn==0.13.2
+sentence-transformers==3.3.0
+shap==0.46.0
 six==1.16.0
+slicer==0.0.8
 stack-data==0.6.3
 statsmodels==0.14.4
 sympy==1.13.3
